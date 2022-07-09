@@ -3,6 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- ☁️ &nbsp; Desenvolvimento cloud, usando servless (LAMBDA aws), VMs (compute engine google cloud) e SQL server (Azure).
 - 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://portal.fmu.br/">FMU</a>.
 - 🌱 &nbsp; Aprendendo mais sobre React Native e Flutter. 
 
