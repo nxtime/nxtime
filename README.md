@@ -41,6 +41,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Marcos Paulo](https://img.shields.io/badge/-Marcos%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Marcos Paulo](https://img.shields.io/badge/-Marcos%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcos-paulo-822b18157/)
 [![Gmail Badge](https://img.shields.io/badge/-marcos.paulodasilva.mp@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.paulodasilva.mp@gmail.com)](mailto:marcos.paulodasilva.mp@gmail.com)
 [![GitHub Nxtime]( https://img.shields.io/github/followers/nxtime?label=follow&style=social)](https://github.com/nxtime)
