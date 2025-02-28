@@ -8,7 +8,7 @@
 - 💡 Specialized in front-end development with **React** ecosystem
 - 🔧 Proficient in multiple technologies including **JavaScript/TypeScript**, **Java**, and cloud platforms
 - 🌱 Exploring **React Native** and **Flutter** for cross-platform mobile development
-- 🎓 Studying Systems Analysis and Development at [FMU](https://portal.fmu.br/)
+- 🎓 Studying Computer Science at [UNINTER](https://portal.fmu.br/)
 
 ## 🛠️ Tech Stack
 
