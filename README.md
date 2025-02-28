@@ -1,47 +1,52 @@
 ![](https://komarev.com/ghpvc/?username=nxtime&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+# Marcos Paulo
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- ☁️ &nbsp; Desenvolvimento cloud, usando servless (LAMBDA aws), VMs (compute engine google cloud) e SQL server (Azure).
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://portal.fmu.br/">FMU</a>.
-- 🌱 &nbsp; Aprendendo mais sobre React Native e Flutter. 
+## 👨‍💻 Tech Lead & Software Engineer
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- 🚀 Currently working as a **Software Engineer** with experience as a **Tech Lead**
+- 💡 Specialized in front-end development with **React** ecosystem
+- 🔧 Proficient in multiple technologies including **JavaScript/TypeScript**, **Java**, and cloud platforms
+- 🌱 Exploring **React Native** and **Flutter** for cross-platform mobile development
+- 🎓 Studying Systems Analysis and Development at [FMU](https://portal.fmu.br/)
 
-**Aplicações e Dados**
+## 🛠️ Tech Stack
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=fff&color=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=ffffff&color=f5e536)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&color=c45e2b&logoColor=fff)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=fff&color=2a76b0)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&color=66B1F1&logoColor=fff)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=61DAFB&logoColor=fff)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node&color=90C53F&logoColor=fff)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&color=61DAFB&logoColor=fff)
+### Front-End
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**DevOps**
+### Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-**Ferramentas de Desenvolvimento**
+### Cloud & DevOps
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&color=007ACC&logoColor=fff)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&color=164e9c&logoColor=fff)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff&color=EA4C1D)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=fff&color=870e54)
+### Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-<br/>
-
-<a href="https://github.com/nxtime">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nxtime&theme=dracula&show_icons=true" />
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxtime&layout=compact&theme=dracula" />
+</div>
 
-<br/>
+## 📫 Connect With Me
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Marcos Paulo](https://img.shields.io/badge/-Marcos%20Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcos-paulo-822b18157/)
-[![Gmail Badge](https://img.shields.io/badge/-marcos.paulodasilva.mp@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.paulodasilva.mp@gmail.com)](mailto:marcos.paulodasilva.mp@gmail.com)
-[![GitHub Nxtime]( https://img.shields.io/github/followers/nxtime?label=follow&style=social)](https://github.com/nxtime)
+[![LinkedIn](https://img.shields.io/badge/-Marcos%20Paulo-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-822b18157/)
+[![Email](https://img.shields.io/badge/-marcos.paulodasilva.mp@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:marcos.paulodasilva.mp@gmail.com)
+[![GitHub](https://img.shields.io/badge/-nxtime-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nxtime)
